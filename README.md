@@ -1,7 +1,7 @@
 # NFT_Polyconseil
 
 Voici le dépôt git qui constitue le livrable de la mission Xprojet
-Il permet la création de NFT en respectant les standards ERC721 avec l'implémentation sécurisée d'Openzeppelin
+Il permet la création de NFT en respectant les standards ERC721 avec l'implémentation sécurisée d'Openzeppelin et le Preset ERC721PresetMinterPauserAutoId qui permet de gérer nos NFTs.
 
 Ce smart contract a été déployée sur le testnet rinkeby et peut être déployé sur le mainnet
 
