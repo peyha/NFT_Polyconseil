@@ -3,7 +3,7 @@
 Voici le dépôt git qui constitue le livrable de la mission Xprojet
 Il permet la création de NFT en respectant les standards ERC721 avec l'implémentation sécurisée d'Openzeppelin et le Preset ERC721PresetMinterPauserAutoId qui permet de gérer nos NFTs.
 
-Ce smart contract a été déployée sur le testnet rinkeby et peut être déployé sur le mainnet
+Ce smart contract a été déployé sur le testnet rinkeby et peut être déployé sur le mainnet
 
 Les fonctions à utiliser sont disponibles sur https://docs.openzeppelin.com/contracts/2.x/api/token/erc721
 
