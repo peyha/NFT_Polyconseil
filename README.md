@@ -12,5 +12,9 @@ Le NFT est caractérisé par trois champs à définir dans migrations/2_deploy.j
 - le symbole du NFT (sigle)
 - le baseURI (url qui pointe vers un json par exemple https://my-json-server.typicode.com/abcoathup/samplenft/tokens/ sachant que le NFT d'identifiant id aura pour tokenURI https://my-json-server.typicode.com/abcoathup/samplenft/tokens/{id})
 
-
+Ces NFT permettent:
+- les propriétaires peuvent détruire (burn) leurs NFTs
+- un rôle de "minter" qui permet de générer les NFTs (par défaut donné au propriétaire du contrat)
+- un rôle de "pauser" qui permet de stopper toute transaction entre les NFTs (par défaut donné au propriétaire du contrat)
+- autogénération de token id et de token uri
 
