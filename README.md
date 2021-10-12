@@ -5,7 +5,7 @@ Il permet la création de NFT en respectant les standards ERC721 avec l'impléme
 
 Ce smart contract a été déployé sur le testnet rinkeby (ici https://rinkeby.etherscan.io/address/0x0beD7295F65BCC8431e6DA1C643D778aDa047eaF) et peut être déployé sur le mainnet 
 
-Les fonctions à utiliser sont disponibles sur https://docs.openzeppelin.com/contracts/2.x/api/token/erc721
+Les fonctions à utiliser sont disponibles sur https://docs.openzeppelin.com/contracts/3.x/api/presets#ERC721PresetMinterPauserAutoId
 
 Le NFT est caractérisé par trois champs à définir dans migrations/2_deploy.js :
 - le nom du NFT
