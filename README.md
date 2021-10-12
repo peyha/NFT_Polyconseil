@@ -1,6 +1,6 @@
 # NFT_Polyconseil
 
-Voici le dépôt git qui constitue le livrable de la mission Xprojet
+Voici le dépôt git qui constitue le livrable de la mission Xprojet. Il correspond à un build utilisé avec Truffle
 Il permet la création de NFT en respectant les standards ERC721 avec l'implémentation sécurisée d'Openzeppelin et le Preset ERC721PresetMinterPauserAutoId qui permet de gérer nos NFTs.
 
 Ce smart contract a été déployé sur le testnet rinkeby (ici https://rinkeby.etherscan.io/address/0x0beD7295F65BCC8431e6DA1C643D778aDa047eaF) et peut être déployé sur le mainnet 
