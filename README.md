@@ -21,6 +21,6 @@ Ces NFT permettent:
 Les fonctions les plus importantes sont
 - NFT.pause() pour mettre les transactions en pause
 - NFT.unpause() pour permettre les transactions
-- NFT.mint(address) pour minter un nft
-- 
+- NFT.mint(to) pour minter un nft
+- NFT.\_transfer(from, to, tokenId)
 
