@@ -22,5 +22,7 @@ Les fonctions les plus importantes sont
 - NFT.pause() pour mettre les transactions en pause
 - NFT.unpause() pour permettre les transactions
 - NFT.mint(to) pour minter un nft
-- NFT.\_transfer(from, to, tokenId)
+- NFT.transferFrom(from, to, tokenId)
 
+Au niveau des gas fee, un mint coute 155313 gas et un transfer coute 37398
+  
