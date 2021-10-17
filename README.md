@@ -24,5 +24,5 @@ Les fonctions les plus importantes sont
 - NFT.mint(to) pour minter un nft
 - NFT.transferFrom(from, to, tokenId)
 
-Au niveau des gas fee, un mint coute 155313 gas et un transfer coute 37398
+Au niveau des gas fee, un mint coute 155313 gas et un transfer coute 37398 gas. Actuellement, un gas coute 58 gwei pour une transaction donc un mint vaut 0.009008154 eth = 30 € et un transfer 7€
   
