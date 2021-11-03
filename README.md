@@ -29,3 +29,4 @@ Les fonctions les plus importantes sont
 Au niveau des gas fee, un mint coute 155313 gas et un transfer coute 37398 gas. Actuellement, un gas coute 58 gwei pour une transaction donc un mint vaut 0.009008154 eth = 30 € et un transfer 7€
 LA fonction pause coute 47012 gas et unpause en coute 25089
 La fonction burn coute 70163 gas
+Le déploiement du contrat coute 2588520 gas donc environ 0.15 eth soit 590€(!!)
